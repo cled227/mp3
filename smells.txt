@@ -1,0 +1,4 @@
+Q1: Duplicated Code -> extracting to a new methid and using that where the repeated lines are
+Q3: Feature Envy -> Move the method to another class
+Q4: Put them in a method and call that instead
+Q6:Can eliminate duplicate code with extract method
